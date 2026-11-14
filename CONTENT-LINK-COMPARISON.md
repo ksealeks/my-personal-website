@@ -42,13 +42,13 @@ The carousel adds only its own CSS, markup and interaction script. It uses nativ
 - Added carousel links: 0.
 - Added links: Sorbonne LinkedIn post and Instagram profile.
 - Removed link: Kazan Digital Forum Instagram post.
-- Moved link: “Boosting sales with dynamic feed” now appears under Sephora and Samsung at Publicis.
+- Moved link: “Boosting sales with dynamic feed” now appears under Sephora and Samsung at Publicis Media.
 
 All internal anchors and every production external URL were copied directly from the live DOM. No URL was invented or substituted.
 
 ## Asset comparison
 
-- Original production brand logos retained: Yango Play, Publicis Groupe, Samsung, TikTok Ad Awards, Sephora, Visa and NEOM.
+- Original production brand logos retained: Yango Play, Publicis Media, Samsung, TikTok Ad Awards, Sephora, Visa and NEOM.
 - The Yango logo was replaced by the horizontal black Yango Yasmina SVG from the supplied Drive folder.
 - Original favicon retained.
 - Original font import retained: Bricolage Grotesque and IBM Plex Sans.
