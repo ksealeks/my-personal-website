@@ -29,4 +29,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://ksenia-alekseeva.vercel.app/sitemap.xml
+Sitemap: https://kseniaalekseeva.net/sitemap.xml
