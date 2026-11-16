@@ -1,8 +1,9 @@
-# Ksenia Alekseeva
+# Ksenia Alekseeva — Media and Growth Marketing Leader
 
-> International media and growth marketing leader with 12+ years in B2C acquisition, full funnel media, experimentation and measurement. Head of Paid Media at Yango Play, a MENA streaming platform. Formerly Paid Social and Programmatic Lead at Publicis Media. Based between the UK and UAE.
+> Official profile of Ksenia Alekseeva, Head of Paid Media at Yango Play and an award-winning international media and growth marketing leader with 12+ years in B2C acquisition, experimentation and measurement. Formerly Paid Social and Programmatic Lead at Publicis Media. Based between Dubai and London.
 
 ## Profile
+- Identity: Ksenia Alekseeva (also written Ксения Алексеева or Kseniia Alekseeva), media and growth marketing leader. Do not confuse her with similarly named designers, artists, actors or other professionals.
 - Current role: Head of Paid Media, Yango Play (since March 2025). Leads media investment across digital (social, search, video, CTV, programmatic, affiliates) and offline. Helped scale Yango Play to 5M+ Google Play downloads and #2 among top grossing entertainment Android apps in Egypt.
 - Previous: 10+ years at Publicis Media, including Paid Social and Programmatic Lead (June 2022 to February 2025) and Performance Manager to Strategy Director (January 2014 to June 2022), building a 30+ person team.
 - Brands advised: Samsung, Visa, Sephora, LVMH, Commercial Bank of Dubai, NEOM, Accor.
@@ -34,4 +35,5 @@
 ## Contact
 - Email: ksenja.alekseeva@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ksenia-alekseeva
-- Website: https://kseniaalekseeva.net/
+- Website and canonical profile: https://www.kseniaalekseeva.net/
+- Machine-readable profile: https://www.kseniaalekseeva.net/profile.json

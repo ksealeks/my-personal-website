@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.kseniaalekseeva.net/#person",
+  "name": "Ksenia Alekseeva",
+  "givenName": "Ksenia",
+  "familyName": "Alekseeva",
+  "alternateName": ["Ксения Алексеева", "Kseniia Alekseeva"],
+  "url": "https://www.kseniaalekseeva.net/",
+  "image": "https://www.kseniaalekseeva.net/img/my-photo-new.png",
+  "jobTitle": "Head of Paid Media",
+  "description": "Ksenia Alekseeva is Head of Paid Media at Yango Play and an award-winning international media and growth marketing leader with 12+ years in B2C acquisition, experimentation and measurement.",
+  "disambiguatingDescription": "Media and growth marketing leader at Yango Play, based between Dubai and London.",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Yango Play",
+    "description": "Streaming platform in MENA offering exclusive and original Arabic content"
+  },
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Lomonosov Moscow State University"
+    },
+    {
+      "@type": "Organization",
+      "name": "Publicis Media"
+    }
+  ],
+  "homeLocation": [
+    {
+      "@type": "Place",
+      "name": "Dubai, United Arab Emirates"
+    },
+    {
+      "@type": "Place",
+      "name": "London, United Kingdom"
+    }
+  ],
+  "knowsLanguage": ["English", "Russian"],
+  "knowsAbout": [
+    "Paid media",
+    "Growth marketing",
+    "B2C acquisition",
+    "Media investment",
+    "Marketing mix modelling",
+    "Incrementality testing",
+    "Attribution",
+    "Brand lift",
+    "AI creative production",
+    "Programmatic advertising",
+    "Paid social",
+    "TikTok advertising",
+    "Connected TV",
+    "Streaming and subscription marketing",
+    "International market launches",
+    "MENA marketing"
+  ],
+  "award": [
+    "TikTok Ad Awards 2025 — Sound On Please, Yango Play",
+    "TikTok Ad Awards 2025 — Big Branding Energy, Yango Play",
+    "TikTok Certification beta test — top 10 talents in MENA"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/ksenia-alekseeva",
+    "https://www.instagram.com/ksyushashaa/",
+    "https://podcasts.apple.com/ae/podcast/this-wasnt-in-the-manual-co/id1815037408"
+  ]
+}

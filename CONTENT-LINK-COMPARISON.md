@@ -1,6 +1,6 @@
 # Content and link comparison report
 
-Source of truth: `https://kseniaalekseeva.net/`
+Source of truth: `https://www.kseniaalekseeva.net/`
 
 Comparison date: 14 November 2026
 

@@ -1,6 +1,6 @@
 # Ksenia Alekseeva portfolio
 
-Exact static replication of the live portfolio at `https://kseniaalekseeva.net/`, with only the requested portrait replacement and photography carousel addition.
+Static portfolio for `https://www.kseniaalekseeva.net/`, deployed from GitHub through Vercel.
 
 ## Local preview
 
